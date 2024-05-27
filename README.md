@@ -1,12 +1,12 @@
 ## Olá! Eu sou a Jiovanna Barros 🖐️
 
-### Um pouco sobre mim 🙃
+### Um pouco sobre mim 😄
 
 📚 Estudante na Etec.<br>
-💻 <br>
-📖  <br>
+💻 Trabalho como auxiliar fiscal na Bravo Project&Outsourcing.<br>
+📖 Um grande interesse em migrar para a area de tecnologia.<br>
 
-### Você pode entrar em contato comigo:
+### Você pode entrar em contato comigo 📱:
 <div> 
 
  <a href="https://www.instagram.com/jiovannabarros/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
