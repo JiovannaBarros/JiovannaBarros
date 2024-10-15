@@ -3,8 +3,8 @@
 ### Um pouco sobre mim 😄
 
 📚 Estudante na Etec.<br>
-💻 Trabalho como auxiliar fiscal na Bravo Project&Outsourcing.<br>
-📖 Um grande interesse em migrar para a area de tecnologia.<br>
+💻 Trabalho como auxiliar de TI na Bravo Project&Outsourcing.<br>
+
 
 ### Você pode entrar em contato comigo 📱:
 <div> 
